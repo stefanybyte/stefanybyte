@@ -1,4 +1,4 @@
-###- 👋 Hi, I’m @stefanybyte
+- 👋 Hi, I’m Stefany Pinzon
 - 👀 Software Engineer looking to expand my learnings 
 - 🌱 Currently learning about data analytics
 - 💞️ Looking to collaborate on more projects
